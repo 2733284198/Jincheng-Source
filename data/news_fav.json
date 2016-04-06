@@ -1,0 +1,2 @@
+{ "_id" : { "$oid" : "5492cb0a8fbf84ed69b3d80b" }, "createdAt" : { "$date" : "2014-12-18T20:39:38.576+0800" }, "updatedAt" : { "$date" : "2014-12-18T20:39:38.576+0800" }, "user(uz*R*id)" : "548fd6bc72c60e937d21c8f2", "news" : "5490e72b38834505316fb4af" }
+{ "_id" : { "$oid" : "5492cb12a4bec1ef696c1a89" }, "createdAt" : { "$date" : "2014-12-18T20:39:46.678+0800" }, "updatedAt" : { "$date" : "2014-12-18T20:39:46.678+0800" }, "user(uz*R*id)" : "548fd6bc72c60e937d21c8f2", "news" : "5490e7a6edb9860731f55d09" }
