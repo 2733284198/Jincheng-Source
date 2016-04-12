@@ -1,6 +1,6 @@
 # Jincheng-Source
 
-《[防玩转晋城](http://community.apicloud.com/bbs/forum.php?mod=viewthread&tid=291&extra=page%3D1)》
+《[仿玩转晋城](http://community.apicloud.com/bbs/forum.php?mod=viewthread&tid=291&extra=page%3D1)》
 
 作者：APICloud
 
